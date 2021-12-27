@@ -1,7 +1,7 @@
 Personal Attack Configs for HashRecovery.com
 
 ## WPA
-#### wpa.json:
+#### wpa.json
 
 - 8 Digits Attack
 - 9 Digits Attack
